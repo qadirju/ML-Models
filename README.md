@@ -14,7 +14,7 @@ Each project folder contains:
 | Project | Description | Key Techniques |
 |----------|-------------|----------------|
 | [**Binary Bank Prediction**](binary-bank-prediction/) | Predicts customer subscription likelihood in a bank marketing campaign (Kaggle Playground Competition). | Data preprocessing, EDA, CatBoost, feature engineering, evaluation |
-| *(Text Processing with DNN)* |Applying the preprocessing techniques like Tokenizer and learnt the working of Deep Neural Network. |Panda,Tokenizer,DNN,Preprocessing,Normalization |
+| **Text Processing with DNN** |Applying the preprocessing techniques like Tokenizer and learnt the working of Deep Neural Network. |Panda,Tokenizer,DNN,Preprocessing,Normalization |
 | *(Add more projects here as you create them)* | | |
 
 ---
