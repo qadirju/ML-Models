@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/ML-Models.git
+    git clone https://github.com/qadirju/ML-Models.git
     cd "Text Processing with Deep Neural Network"
     ```
 
@@ -56,9 +56,6 @@ pip install -r requirements.txt
 - `evaluate.py`: Script for evaluating the model.
 - `README.md`: Project documentation.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
