@@ -13,8 +13,9 @@ Each project folder contains:
 
 | Project | Description | Key Techniques |
 |----------|-------------|----------------|
-| [**Binary Bank Prediction**](binary-bank-prediction/) | Predicts customer subscription likelihood in a bank marketing campaign (Kaggle Playground Competition). | Data preprocessing, EDA, CatBoost, feature engineering, evaluation |
+| **Binary Bank Prediction**| Predicts customer subscription likelihood in a bank marketing campaign (Kaggle Playground Competition). | Data preprocessing, EDA, CatBoost, feature engineering, evaluation |
 | **Text Processing with DNN** |Applying the preprocessing techniques like Tokenizer and learnt the working of Deep Neural Network. |Panda,Tokenizer,DNN,Preprocessing,Normalization |
+| **YOLO Real-Time Object Detection** | A real-time deep learning–based object detection system that uses the YOLO framework for fast and accurate multi-object detection in images and video streams. | YOLOv3/YOLOv4, Convolutional Neural Networks (CNNs), OpenCV, Non-Maximum Suppression (NMS), Bounding Box Regression, COCO Dataset |
 | *(Add more projects here as you create them)* | | |
 
 ---
