@@ -16,6 +16,7 @@ Each project folder contains:
 | **Binary Bank Prediction**| Predicts customer subscription likelihood in a bank marketing campaign (Kaggle Playground Competition). | Data preprocessing, EDA, CatBoost, feature engineering, evaluation |
 | **Text Processing with DNN** |Applying the preprocessing techniques like Tokenizer and learnt the working of Deep Neural Network. |Panda,Tokenizer,DNN,Preprocessing,Normalization |
 | **YOLO Real-Time Object Detection** | A real-time deep learning–based object detection system that uses the YOLO framework for fast and accurate multi-object detection in images and video streams. | YOLOv3/YOLOv4, Convolutional Neural Networks (CNNs), OpenCV, Non-Maximum Suppression (NMS), Bounding Box Regression, COCO Dataset |
+| **Graph Theory - PageRank** | An implementation of the PageRank algorithm demonstrating graph-based ranking techniques used for analyzing network importance and connectivity. | Graph Theory, PageRank Algorithm, Network Analysis, Eigenvector Computation, Link Analysis |
 | *(Add more projects here as you create them)* | | |
 
 ---
@@ -24,5 +25,5 @@ Each project folder contains:
 
 ### 1. Clone this Repository
 ```bash
-git clone https://github.com/<your-username>/ML-Models.git
+git clone https://github.com/qadirju/ML-Models.git
 cd ML-Models
